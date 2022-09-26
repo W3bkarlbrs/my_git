@@ -1,7 +1,5 @@
 hey im Karol
 
-Just trying to learn something...
-
 🎧🖥️
 
 <div align="center">
