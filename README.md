@@ -15,3 +15,8 @@ Hello welcome to my Github!!💜
  
   
 </div>
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@karoline/30-nites-of-code)  
+  ![@karoline #30NitesOfCode](https://www.codedex.io/api/petStatus?user=karoline)
